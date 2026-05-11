@@ -1,4 +1,4 @@
-
+--Role based access
 WITH
 table_grants AS (
   SELECT DISTINCT
